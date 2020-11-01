@@ -30,14 +30,9 @@
 // for (let i=o; i<3; i++)
 // alert(i);
 // 6)let mas=[1,2,3,4,5]
-// function mas(a,b)
-// {
-//     return a+b
-// }
-// for(let i=0; i<=mas.length;i++)
-// console.log(mas[i])
+// for(let i=0; i<=mas.length;i++){
+// console.log(mas[i])}
 // 7) 
 // let array =[1224,0,987,405,606]
 // array.max()
 // 8)mas.foreach(splice);
-9)
